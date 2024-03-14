@@ -1,8 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////
 //
-//  C212
-//
-//  Midterm exam part 2
 //  @Aidan Goodfellow aidgoodf  
 //  Explain: This file creates the frame that the shapeDriver component is displayed on. 
 //  It also takes the user input for how many people should be in the "town".
