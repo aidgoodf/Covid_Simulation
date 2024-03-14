@@ -1,8 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////
 //
-//  C212
-//
-//  Midterm exam part 2
 //  @Aidan Goodfellow aidgoodf  
 //  Explain: This file is the shapeDriver that will generate all of the people in the "town",
 //  constructs a timer and every tick moves the people, checks if they have become sick and handles that accordingly,
